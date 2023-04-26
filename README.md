@@ -1,9 +1,13 @@
-# Generative Large Language Models for Human-Like Behavior
 # LuotuoRPG: Generative Agents的中文版本
+
+原项目名: Generative Large Language Models for Human-Like Behavior
 
 LuotuoRPG 是由李鲁鲁开发的Generative Agents的中文版本。
 
 This repository includes a working Chinese version of the type of model described in Generative Agents: Interactive Simulacra of Human Behavior.
+
+骆驼RPG是[Luotuo(骆驼)](https://github.com/LC1332/Luotuo-Chinese-LLM)的子项目之一，后者由李鲁鲁，冷子昂，陈启源发起。
+
 
 ## Quickstart
 
@@ -17,10 +21,12 @@ colab链接
 
 - [x] Translate prompt and runing in Chinese
 - [ ] Add a colab link on page
+- [ ] demo video
 - [ ] Add a Chinese-culture story
+- [ ] demo video2
 - [ ] Add a 3.5 turbo version (if it's possible)
 - [ ] A Gradio Interface
-
+- [ ] build En and Ch page individiually
 
 # How to Use
 

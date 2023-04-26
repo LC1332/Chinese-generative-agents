@@ -22,7 +22,9 @@ This repository includes a working Chinese version of the type of model describe
 
 ## Demo Video
 
-https://user-images.githubusercontent.com/5266090/234689187-14f24618-f592-44b8-b158-a006657cfd21.mov
+
+
+https://user-images.githubusercontent.com/5266090/234726234-79342279-746c-4226-8a90-10bc58d8fe79.mov
 
 
 ## 运行效果

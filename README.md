@@ -16,6 +16,7 @@ This repository includes a working Chinese version of the type of model describe
 
 |  | Colab链接 | 细节 |
 | --- | --- | :--- |
+| 同福客栈 | <a href="https://colab.research.google.com/github/LC1332/Chinese-generative-agents/blob/main/notebook/Chinese_story_turbo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 将故事替换为同福客栈的版本 |
 | 命令行版本 | <a href="https://colab.research.google.com/github/LC1332/Chinese-generative-agents/blob/main/notebook/Chinese_generative_model_turbo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 暂时实现了命令行的版本 |
 
 

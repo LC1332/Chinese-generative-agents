@@ -19,6 +19,9 @@ This repository includes a working Chinese version of the type of model describe
 | 命令行版本 | <a href="https://colab.research.google.com/github/LC1332/Chinese-generative-agents/blob/main/notebook/Chinese_generative_model_turbo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 暂时实现了命令行的版本 |
 
 
+## Demo Video
+
+https://user-images.githubusercontent.com/5266090/234689187-14f24618-f592-44b8-b158-a006657cfd21.mov
 
 
 

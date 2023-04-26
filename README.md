@@ -37,7 +37,10 @@ This repository includes a working Chinese version of the type of model describe
 
 # How to Use
 
-* The most stable model is available at https://github.com/mkturkcan/generative-agents/tree/main/notebook/Release.
+本项目基于generative agents的一个[简易实现](https://github.com/mkturkcan/generative-agents)修改而来
+
+
+
 * WIP models with the latest features will be available in https://github.com/mkturkcan/generative-agents/tree/main/notebook/WIP.
 * A WIP library is available under https://github.com/mkturkcan/generative-agents/tree/main/game_simulation.
 

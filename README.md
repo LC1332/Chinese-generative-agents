@@ -1,10 +1,26 @@
 # Generative Large Language Models for Human-Like Behavior
+# LuotuoRPG: Generative Agents的中文版本
 
-This repository includes a working version of the type of model described in Generative Agents: Interactive Simulacra of Human Behavior.
+LuotuoRPG 是由李鲁鲁开发的Generative Agents的中文版本。
 
-## Setup
+This repository includes a working Chinese version of the type of model described in Generative Agents: Interactive Simulacra of Human Behavior.
 
-The models are distributed as notebooks that are easy to run locally, or on Google Colab. We recommend the use of Jupyter Lab if running locally. The notebook(s) should work as-is on Google Colab.
+## Quickstart
+
+因为免费的模型还没有支持中文，我把接口替换成了openAI的。
+
+你需要一个openAI的API token来运行这个代码
+
+colab链接
+
+## TODO
+
+- [x] Translate prompt and runing in Chinese
+- [ ] Add a colab link on page
+- [ ] Add a Chinese-culture story
+- [ ] Add a 3.5 turbo version (if it's possible)
+- [ ] A Gradio Interface
+
 
 # How to Use
 

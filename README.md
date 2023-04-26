@@ -11,20 +11,26 @@ This repository includes a working Chinese version of the type of model describe
 
 ## Quickstart
 
-因为免费的模型还没有支持中文，我把接口替换成了openAI的。
-
 你需要一个openAI的API token来运行这个代码
 
-colab链接
+
+|  | Colab链接 | 细节 |
+| --- | --- | :--- |
+| 命令行版本 | <a href="https://colab.research.google.com/github/LC1332/Chinese-generative-agents/blob/main/notebook/Chinese_generative_model_turbo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 暂时实现了命令行的版本 |
+
+
+
+
+
 
 ## TODO
 
 - [x] Translate prompt and runing in Chinese
-- [ ] Add a colab link on page
+- [x] Add a colab link on page
 - [ ] demo video
 - [ ] Add a Chinese-culture story
 - [ ] demo video2
-- [ ] Add a 3.5 turbo version (if it's possible)
+- [x] Add a 3.5 turbo version (if it's possible)
 - [ ] A Gradio Interface
 - [ ] (opt) Message Queue parall request
 - [ ] build En and Ch page individiually

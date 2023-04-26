@@ -26,6 +26,7 @@ colab链接
 - [ ] demo video2
 - [ ] Add a 3.5 turbo version (if it's possible)
 - [ ] A Gradio Interface
+- [ ] (opt) Message Queue parall request
 - [ ] build En and Ch page individiually
 
 # How to Use

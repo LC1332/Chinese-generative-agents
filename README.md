@@ -37,6 +37,7 @@ https://user-images.githubusercontent.com/5266090/234689187-14f24618-f592-44b8-b
 - [ ] A Gradio Interface
 - [ ] (opt) Message Queue parall request
 - [ ] build En and Ch page individiually
+- [ ] add WIP emoji
 
 # How to Use
 
